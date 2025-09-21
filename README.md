@@ -3,7 +3,7 @@
 ## How is it used?
 This system can be used **to rate a movie based on it's score**.
 ---
-## What data did I user?
+## What data did I use it?
 Access link: https://www.kaggle.com/datasets/ashukr/movie-rating-data?select=ratings.csv
 ---
 ## Why am I working on this project?
